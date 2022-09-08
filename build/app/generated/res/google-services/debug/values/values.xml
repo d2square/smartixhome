@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">664359338316-n4c52juc39mudis90den9aqq7gfc6arj.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://moviename-46914.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">664359338316</string>
+    <string name="google_api_key" translatable="false">AIzaSyChj1q2z1ZB_ts1LokiAYl25qfKhJBU58k</string>
+    <string name="google_app_id" translatable="false">1:664359338316:android:c7afbee419b5b0a1a90fe9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyChj1q2z1ZB_ts1LokiAYl25qfKhJBU58k</string>
+    <string name="google_storage_bucket" translatable="false">moviename-46914.appspot.com</string>
+    <string name="project_id" translatable="false">moviename-46914</string>
+</resources>
